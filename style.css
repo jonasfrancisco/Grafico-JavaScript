@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:azure;
+   
+   
+}
+
+.main{
+    width: 55%;
+    
+}
